@@ -129,15 +129,21 @@ window.process = process;
 
 ### 1️⃣ Chat Interface
 
-Add your screenshot here
+
+<img width="463" height="468" alt="image" src="https://github.com/user-attachments/assets/b3c1b952-24b8-4034-9be3-667b411ba1f2" />
+
 
 ### 2️⃣ Real-Time Messaging
 
-Multiple users chatting simultaneously
+
+<img width="475" height="385" alt="image" src="https://github.com/user-attachments/assets/9758c216-789f-4e89-ac83-e3afb4680256" />
+
 
 ### 3️⃣ WebSocket Connection Active
 
-Show connection logs or console
+
+<img width="1035" height="616" alt="image" src="https://github.com/user-attachments/assets/ea54f86c-058a-4277-aa1b-5f1b488723de" />
+
 
 ### 4️⃣ Message Broadcast
 
@@ -145,7 +151,9 @@ Display messages received across clients
 
 ### 5️⃣ Application Running
 
-Show backend + frontend running
+
+<img width="1364" height="712" alt="image" src="https://github.com/user-attachments/assets/0626df5f-a852-4b7b-832a-37196a5c25ca" />
+
 
 ### Learning Outcomes
 
