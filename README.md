@@ -137,6 +137,9 @@ window.process = process;
 
 
 <img width="475" height="385" alt="image" src="https://github.com/user-attachments/assets/9758c216-789f-4e89-ac83-e3afb4680256" />
+<img width="647" height="279" alt="image" src="https://github.com/user-attachments/assets/278566af-0e0f-4c19-8567-23dd0707f0f6" />
+<img width="664" height="282" alt="image" src="https://github.com/user-attachments/assets/f22adf9e-a223-4400-a8b7-ea6460f98bf3" />
+
 
 
 ### 3️⃣ WebSocket Connection Active
