@@ -145,11 +145,7 @@ window.process = process;
 <img width="1035" height="616" alt="image" src="https://github.com/user-attachments/assets/ea54f86c-058a-4277-aa1b-5f1b488723de" />
 
 
-### 4️⃣ Message Broadcast
-
-Display messages received across clients
-
-### 5️⃣ Application Running
+### 4️⃣ Application Running
 
 
 <img width="1364" height="712" alt="image" src="https://github.com/user-attachments/assets/0626df5f-a852-4b7b-832a-37196a5c25ca" />
