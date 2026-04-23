@@ -167,5 +167,5 @@ Display messages received across clients
 
 **Aaryan Gill** – 23BAI70473
 
-Email: 23BAI70473@cuchd.in
-GitHub: https://github.com/aaryangill
+- **Email:** 23BAI70473@cuchd.in
+- **GitHub:** https://github.com/aaryangill
